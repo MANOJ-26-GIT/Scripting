@@ -6,3 +6,4 @@ read a
 echo "Value of b"
 read b
 echo "Hello value of a is $a and value of b is $b"
+echo "lets see some new commit"
